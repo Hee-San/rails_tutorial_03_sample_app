@@ -5,6 +5,8 @@
 （第6版）
 [Michael Hartl](https://www.michaelhartl.com/) 著
 
+Herokuにデプロイした本番環境は[ここ](https://fast-peak-46855.herokuapp.com/)
+
 ## ライセンス
 
 [Ruby on Rails チュートリアル](https://railstutorial.jp/)内にある
